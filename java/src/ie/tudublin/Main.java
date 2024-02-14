@@ -34,7 +34,7 @@ public class Main
 		
 		
 		Main m = new Main();
-
+		/* 
 		m.doDogStuff();
 
 		m.doCatStuff();
@@ -59,7 +59,7 @@ public class Main
 
 		System.out.println(a.getName());
 		System.out.println("C: " + c.getName());
-		
+		*/
 
 
 		m.helloProcessing();
